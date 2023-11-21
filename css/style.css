@@ -1,0 +1,128 @@
+body{
+    overflow-x: hidden;
+}
+.nav-item a {
+    text-shadow: 0px 1px;
+}
+
+.header-left-contant {
+    background-color: #74247A;
+}
+
+.header-right-contant {
+    background-color: #FFC700;
+}
+
+
+.inform {
+    background-color: #C6C6C6;
+}
+
+.inform-first-section{
+    border: 2px solid black;
+    box-shadow: 10px 10px;
+    background-color: white;
+}
+
+.inform-second-section{
+    border: 2px solid black;
+    box-shadow: 10px 10px;
+    background-color: white;
+}
+
+.inform-third-section{
+    border: 2px solid black;
+    box-shadow: 10px 10px;
+    background-color: white;
+}
+
+.use-parsenties-ic h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    color: #FFC700;
+    text-shadow: 5px 5px 1px black;
+    font-size: 60px;
+}
+
+.use-parsenties-ir h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    color: #69D3FA;
+    text-shadow:5px 5px 1px black;
+    font-size: 60px;
+}
+
+.use-parsenties-fmc h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    color: #5CF1A4;
+    text-shadow: 5px 5px 1px black;
+    font-size: 60px;
+}
+
+.work-section {
+    background-color: #C6C6C6;
+}
+
+.work-up-contant h2 {
+    color:white;
+    text-shadow: 5px 0px 1px black;
+}
+
+span {
+    color: #FFC700;
+}
+
+
+/* .collection {
+    background-color: #FFC700;
+    border: 2px solid black;
+    box-shadow: 10px 10px;
+} */
+
+/* .resource {
+    border: 2px solid black;
+    box-shadow: 10px 10px; 
+}
+
+.resource-text-contant {
+    background-color: white;
+}
+
+.webinar {
+    border: 2px solid black;
+    box-shadow: 10px 10px; 
+}
+
+.webinar-text-contant {
+    background-color: white;
+}
+
+.e-book {
+    border: 2px solid black;
+    box-shadow: 10px 10px;
+}
+
+.e-book-text-contant {
+    background-color: white;
+} */
+
+.footer-contant ul li {
+    text-align-last: none;
+    list-style-type: none;
+}
+
+.footer-contant a {
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+}
+
+.footer-section{
+    background-color: #74247A;
+}
+
+  .sub-footer-section {
+    background-color: #FFC700;
+  }
+
